@@ -46,10 +46,10 @@ You can use the WikiText format to write a page. However, a page must have the f
 
 #### 1. Typography
 `=` stands for title, for example:
-> =Heading 1=
-> ==Heading 2==
-> ===Heading 3===
-> ====Heading 4====  
+> =Heading 1=  
+> ==Heading 2==  
+> ===Heading 3===  
+> ====Heading 4====    
 
 This will render into:
 > #Heading 1
