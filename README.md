@@ -1,9 +1,6 @@
 # README File for the iGEM SUSTC-Shenzhen Team Wiki Framework
-=================
 
-The Wiki framework designed by the 2014 iGEM team SUSTC-Shenzhen
-
-
+The framework that powers up the 2014 iGEM team SUSTC-Shenzhen team wiki.
 
 ## Introduction
 
