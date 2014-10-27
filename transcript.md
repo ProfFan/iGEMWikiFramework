@@ -17,9 +17,12 @@ So let me first show you the real case.
 Here you can see a figure depicting the progression of AIDS, quoted from Primer to the Immune Response. Basically it has three stages, first is Acute infection, then Clinical Latency, and finally, Acquired immunodeficiency syndrome. As you can see here, there is a huge drop in the number of CD4+ T Cells here.
 
 In our model, we mainly focus on the latter two stages of HIV infection.
+
 **Switch to the next slide**
 This is our simulation results with no CRISPR system inside the patient. You may notice that the curve looks extremely similar with the actual case, With a quasi-equilibrium for a long time, and a sudden collapse in the end. We believe that this is a strong indicator that the dynamics of our system is almost identical to the original system.
+
 **Switch to the next slide**
 Well there would be a different story if we have introduced our CRISPR system into it. You can see here that the super CD4+ cells took back the dominance and finally the immune system is recovered.
+
 **Next**
 We have also analysed the final chance of saving a patient. The result shows that there exists a critical point where everything would be too late for the patient.
