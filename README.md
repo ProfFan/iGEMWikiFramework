@@ -2,6 +2,8 @@
 
 The framework that powers up the 2014 iGEM team SUSTC-Shenzhen team wiki.
 
+Showcase:[SUSTC-Shenzhen](http://2014.igem.org/Team:SUSTC-Shenzhen)
+
 ## Introduction
 
 The current implementation utilizes:
